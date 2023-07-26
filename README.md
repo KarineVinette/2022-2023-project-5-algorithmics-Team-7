@@ -1,22 +1,26 @@
-# Krug Champagne Winery Software
+# Krug Champagne Project
 
 This software has been designed for Krug Champagne, which is a part of LVMH. The software aims to assist in the blending stage of the champagne-making process. The blending stage is a critical phase in creating the Champagne.
 
+
+- **[Project Management Documentation](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Management/Project-Management-Documentation.md)**
+- **[Project Charter](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Project-Chart.md)**
+- **[Functional Requirements](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Functional-Specifications.md)**
+- **[Techniqual Requirements](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Technical-Specifications.md)**
+- **[Quality Plan](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/tree/main/Documents/Quality-Assurance/Quality-Plan.md)**
+- **[Risk Management Plan](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/tree/main/Documents/Management/Risk-Management-Plan.md)**
+- **[Deployment Plan](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/tree/main/Documents/Software-Documentation.md)**
+- **[Software Documentation](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/tree/main/Documents/Deployment-Plan.md)**  
 - **[Trello Board](https://trello.com/b/QVQdK1at/finalproject)**
 - **[KPI Dashboard](https://docs.google.com/spreadsheets/d/1rdj3Sp6lbA9zX_4oCAbLPIQLKgYrU9wKa_OI0TgnUcU/edit?usp=sharing)**
-- **[Functional Requirements](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Functional-Specifications.md)**
-- **[Techniqual Requirements](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Techniqual-Specifications.md)**
-- **[Project Charter](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Project-Chart.md)**
-- **[RACI](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Management/RACI.pdf)**
-- **[Project Management Documentation](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Management/Project-Management-Documentation.md)**
 - **[Critical Path](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/tree/main/Documents/Management/Critical-Path.pdf)**
-- **[Risk Management Plan](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/tree/main/Documents/Management/Risk-Management-Plan.md)**
-- **[Quality Plan](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/tree/main/Documents/Quality-Assurance/Quality-Plan.md)**
+- **[RACI](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-7/blob/main/Documents/Management/RACI.pdf)**
+
 
 ## Background
 Champagne is a sparkling wine made using the traditional method, also known as the méthode champenoise. The method involves a complex process of fermentation and aging to create a unique flavor and texture that is associated with champagne. The main steps involved in making champagne are harvesting, pressing, first fermentation, blending, second fermentation, aging, riddling, disgorgement, and dosage.
 
-The software focuses on stage 4: blending.  As example, Krug Grande cuvée is a combination of 250 wines of the year plus 150 “reserve” wines from the past 14 years. The Cellar Master, Julie CAVIL, and her team will taste different combinations for about 9 months until they find the perfect formula (a bit like a perfume). Once the formula is known, it becomes the challenge of blending large quantities of wine in the right proportions.
+The software focuses on stage 4: blending.  As example, Krug Grande cuvée is a combination of 250 wines of the year plus 150 “reserve” wines from the past 14 years. The Cellar Master, and her team will taste different combinations for about 9 months until they find the perfect formula (a bit like a perfume). Once the formula is known, it becomes the challenge of blending large quantities of wine in the right proportions.
 
 ## Features
 The software has the following features:
